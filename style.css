@@ -1,0 +1,13 @@
+
+.text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    color: lime;
+}
+ul.list{
+    display: inline-block;
+    text-align: left;
+}
+h3, h5{
+    text-align: start;
+}
